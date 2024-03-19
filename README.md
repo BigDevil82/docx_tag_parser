@@ -1,5 +1,5 @@
 # DocxTagParser
-A simple demo to parse IF-ELSE tags in a template docx files.
+A simple demo to parse IF-ELSE tags in a template docx file.
 
 ## outline
 A docx template file is prepared in advance with IF-ELSE tags.
